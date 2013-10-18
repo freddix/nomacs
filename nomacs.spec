@@ -1,11 +1,11 @@
 Summary:	A Qt image viewer
 Name:		nomacs
-Version:	1.4.0
-Release:	4
+Version:	1.6.0.2
+Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Graphics
-Source0:	http://downloads.sourceforge.net/project/%{name}/%{name}-%{version}/%{name}-%{version}-source.tar.bz2
-# Source0-md5:	ede84986dce5f67c270bb5ff7354e867
+Source0:	http://downloads.sourceforge.net/project/%{name}/%{name}-1.6.0/%{name}-%{version}-source.tar.bz2
+# Source0-md5:	a5556ca94053eec9539c11454f633316
 URL:		http://www.nomacs.org
 BuildRequires:	OpenCV-devel
 BuildRequires:	QtGui-devel
